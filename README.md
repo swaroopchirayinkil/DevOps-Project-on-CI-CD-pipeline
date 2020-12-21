@@ -1,9 +1,9 @@
-# Simple DevOps Project
+# DevOps Project for learning CI/CD concept
 
-This Repository is a collection of Implementation documents. 
+This repo can be used as a guideline for creating the CI/CD workflow.
 
 ### Purpose:
-By following this repository you can able to setup a DevOps CI/CD Pipeline using
+By following this repo we can setup a DevOps CI/CD Pipeline using belowmentioned tools 
 - git
 - Jenkins
 - Maven
